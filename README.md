@@ -2,8 +2,8 @@
 
 ### Cleaned Data Key:
 
-EXCLAMATION -> !
-QUESTION -> ?
-PERIOD -> .
-SEMI -> ;
-END -> End of Song
+- EXCLAMATION -> !
+- QUESTION -> ?
+- PERIOD -> .
+- SEMI -> ;
+- END -> End of Song
